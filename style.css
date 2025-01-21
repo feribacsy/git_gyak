@@ -11,7 +11,8 @@
    align-items: center;
    width: 150px;
    height: 150px;
-   background: bisque;margin: 40px auto;
+   background-color: bisque;
+   margin: 40px auto;
    border-radius: 15px; 
 }
 .text{
@@ -24,4 +25,7 @@
 }
 .hidden{
     display: none;
+}
+.borderRadius{
+    border-radius: 50%;
 }
